@@ -1,0 +1,41 @@
+#header-bg {
+	background-image: url("../fonts/Investment Dashboard_Logo.jpg");
+	background-position: left left;
+	max-width:100%;
+	max-height:100%;
+}
+
+.landscape {
+    height: 350px;
+    width: 800px;
+}
+
+.heading {
+	position: absolute;
+	top : 50px;
+}
+
+#imaginary_container{
+}
+.stylish-input-group .input-group-addon{
+    background: #d9edf7;
+    border-color: #DFF0D8;
+}
+.stylish-input-group .form-control{
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color: #DFF0D8;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.watch-list {
+
+}
+
+.b {
+	color:  green;
+	font-weight: bold;
+}

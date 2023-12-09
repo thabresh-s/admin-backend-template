@@ -1,0 +1,58 @@
+[12-Jul-2016 13:06:39 UTC] PHP Parse error:  syntax error, unexpected '$update_cat_query' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:07:17 UTC] PHP Parse error:  syntax error, unexpected '$update_cat_query' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:09:51 UTC] PHP Parse error:  syntax error, unexpected '$update_cat_query' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:13:12 UTC] PHP Parse error:  syntax error, unexpected '$update_cat_query' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:17:54 UTC] PHP Parse error:  syntax error, unexpected '$update_cat_query' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:19:10 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 16
+[12-Jul-2016 13:20:18 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 16
+[12-Jul-2016 13:21:29 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 16
+[12-Jul-2016 13:21:43 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 16
+[12-Jul-2016 13:22:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:22:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 13
+[12-Jul-2016 13:24:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 14
+[12-Jul-2016 13:40:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/bse2nse5/public_html/Dashboard/admin/modal/UpdateCategory.php on line 15
+[13-Jul-2016 05:30:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:30:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:31:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:46:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:47:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:48:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:48:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:55:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:56:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[13-Jul-2016 05:59:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bse2nse5/public_html/Dashboard/admin/modal/GetStockReport.php on line 19
+[14-Jul-2016 14:12:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:12:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:16:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:16:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:16:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:16:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:17:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:17:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:19:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:19:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:23:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:23:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:23:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:23:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:24:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:24:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:25:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:25:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:27:20 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:27:56 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:02 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:05 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:35 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:44 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:49 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:28:57 UTC] PHP Parse error:  syntax error, unexpected '$log' (T_VARIABLE) in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 14
+[14-Jul-2016 14:29:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:29:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:29:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:29:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[14-Jul-2016 14:29:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 12
+[14-Jul-2016 14:29:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 13
+[19-Jul-2016 04:59:33 UTC] PHP Warning:  file_get_contents(/home/bse2nse5/bse2nse5_equity_eod/eod/sql/split_stock_template.sql): failed to open stream: No such file or directory in /home/bse2nse5/public_html/Dashboard/admin/modal/SplitStock.php on line 23
+[20-Jul-2016 05:07:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bse2nse5/public_html/Dashboard/admin/modal/ChartData.php on line 24
+[20-Jul-2016 05:15:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/bse2nse5/public_html/Dashboard/admin/modal/ChartData.php on line 24
